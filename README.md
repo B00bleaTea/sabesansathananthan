@@ -1,3 +1,4 @@
+# This repository has been migrated to the self-hosted ari-web Forgejo instance: <https://git.ari.lt/ari/sabesansathananthan>
 ### Hi there, I'm Sabesan Sathananthan - aka [Sabesan][website] <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 
 ## I'm a Student, Undergraduate, Developer, and Physics Teacher!
